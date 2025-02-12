@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my site
 ---
+
+# Lets talk about our canine companions
 
